@@ -25,7 +25,7 @@ Superstore dataset (Kaggle)
 ---
 
 ## 📸 Dashboard
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](superstore_dashboard.png)
 
 ---
 
